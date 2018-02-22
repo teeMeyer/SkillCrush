@@ -1,0 +1,75 @@
+.holstee {
+	text-transform: uppercase;	
+	font-family: 'roboto slab', serif;
+}
+p {
+	padding: 0px;
+	margin: 0px;
+}
+.emphasis-0 {
+	font-size: 45px;
+	line-height: 39px;
+}
+.emphasis-1 {
+	float: right;
+	font-size: 113px;
+	line-height: 85px;
+}
+.emphasis-2 {
+	font-size: 28px;
+	line-height: 21px;
+}
+.emphasis-3 {
+	font-size: 32.5px;
+	line-height: 28px;
+	
+}
+.emphasis-4 {
+	line-height: 25px;
+	font-size: 26px;
+}
+.emphasis-5 {
+	font-size: 32px;
+}
+.emphasis-6 {
+	font-size: 20.7px;
+}
+.emphasis-7 {
+	font-size: 20px;
+}
+.emphasis-8 {
+	font-size: 25.7px;
+}
+.emphasis-8_5 {
+	font-size: 34.9px;
+	line-height: 30px;
+}
+.emphasis-9 {
+	font-size: 25.5px;
+	line-height: 20px;
+	float: left;
+	margin-right: 6px;
+}
+.emphasis-10 {
+	font-size: 41px;
+	float: left;
+	clear: both;
+	margin-right: 6px;
+	line-height: 40px;
+}
+.emphasis-11 {
+	font-size: 16px;
+	word-spacing: 1px;
+}
+.emphasis-12 {
+	font-size: 18px;
+	line-height: 12px;
+}
+.emphasis-13 {
+	font-size: 28px;
+	word-spacing: 4px;
+}
+.emphasis-14 {
+	font-size: 18px;
+	word-spacing: 1px;
+}
