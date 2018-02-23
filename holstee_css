@@ -32,20 +32,24 @@ p {
 	font-size: 32px;
 }
 .emphasis-6 {
-	font-size: 20.7px;
+	font-size: 20px;
+	word-spacing: 2px;
 }
 .emphasis-7 {
 	font-size: 20px;
 }
 .emphasis-8 {
-	font-size: 25.7px;
+	font-size: 25px;
+	word-spacing: 2px;
 }
 .emphasis-8_5 {
-	font-size: 34.9px;
-	line-height: 30px;
+	font-size: 34px;
+	word-spacing: 3px;
+	line-height: 35px;
 }
 .emphasis-9 {
-	font-size: 25.5px;
+	font-size: 25px;
+	word-spacing: 2px;
 	line-height: 20px;
 	float: left;
 	margin-right: 6px;
@@ -59,17 +63,96 @@ p {
 }
 .emphasis-11 {
 	font-size: 16px;
+	line-height: 12px;
 	word-spacing: 1px;
 }
 .emphasis-12 {
 	font-size: 18px;
-	line-height: 12px;
+	line-height: 20px;
 }
 .emphasis-13 {
 	font-size: 28px;
 	word-spacing: 4px;
+	line-height: 28px;
 }
 .emphasis-14 {
-	font-size: 18px;
+	font-size: 21px;
 	word-spacing: 1px;
+}
+.emphasis-15 {
+	font-size: 21px;
+	word-spacing: 4px;
+}
+.emphasis-16 {
+	font-size: 18px;
+	word-spacing: 6px;
+}
+.emphasis-17 {
+	font-size: 23px;
+	word-spacing: 1px;
+}
+.emphasis-18 {
+	font-size: 40px;
+	line-height: 38px;
+	float: left;
+	margin-right: 4px;
+}
+.emphasis-19 {
+	font-size: 25px;
+	line-height: 20px;
+	word-spacing: 3px;
+}
+.emphasis-20 {
+	font-size: 19px;	
+	line-height: 18px;
+	word-spacing: 2px;
+}
+.emphasis-21 {
+	font-size: 21px;
+	line-height: 18px;
+	word-spacing: 1px;
+}
+.emphasis-22 {
+	font-size: 26px;
+	line-height: 23px;
+	word-spacing: 1px;
+}
+.emphasis-23 {
+	font-size: 30px;
+	line-height: 27px;
+	word-spacing: 2px;
+}
+.emphasis-24 {
+	font-size: 33px;
+	line-height: 30px;
+	word-spacing: 3px;
+}
+.emphasis-25 {
+	font-size: 69px;
+	line-height: 56px;
+	float: left;
+	margin-right: 6px;
+	word-spacing: 2px;
+}
+.emphasis-26 {
+	font-size: 68px;
+	line-height: 56px;
+	float: left;
+	clear: both;
+	margin-right: 3px;
+}
+.emphasis-27 {
+	font-size: 35px;
+	line-height: 30px;
+	word-spacing: 2px;
+}
+.emphasis-28 {
+	font-size: 56px;
+	line-height: 45px;
+	word-spacing: 3px;
+}
+.emphasis-29 {
+	font-size: 43px;
+	line-height: 35px;
+	word-spacing: 3px;
 }
